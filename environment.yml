@@ -1,0 +1,12 @@
+name: marine-heatwaves
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python
+  - ipykernel
+  - matplotlib
+  - netcdf4
+  - pip
+  - pip:
+      - ocetrac
