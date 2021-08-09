@@ -8,6 +8,10 @@ dependencies:
   - s3fs
   - xarray
   - numpy
+  - pandas
+  - lxml
+  - html5lib
+  - beautifulsoup4
   - scikit-image
   - scipy
   - matplotlib
