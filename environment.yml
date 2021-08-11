@@ -1,12 +1,21 @@
 name: marine-heatwaves
 channels:
-  - conda-forge
+  - mamba
   - defaults
 dependencies:
   - python
   - ipykernel
+  - s3fs
+  - xarray
+  - numpy
+  - pandas
+  - lxml
+  - html5lib
+  - beautifulsoup4
+  - scikit-image
+  - scipy
   - matplotlib
+  - cartopy
   - netcdf4
-  - pip
-  - pip:
-      - ocetrac
+  - zarr
+  - ocetrac

@@ -6,4 +6,4 @@
 _____
 ### Data Preprocessing:
 
-![preprocessing](./images/preprocessing_steps.png)
+![preprocessing](./images/preprocess_flowchart.png)
