@@ -10,6 +10,9 @@ dependencies:
   - numpy
   - pandas
   - matplotlib
+  - bokeh
+  - datashader
+  - holoviews
   - netcdf4
   - zarr
   - ocetrac
